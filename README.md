@@ -46,6 +46,8 @@ In pooled training across all nine subjects, classification accuracy averaged on
 
 These results confirm that individualized pipelines are far more reliable for MI-EEG classification than pooled models, and that hybrid CSP + deep learning approaches offer a strong path forward for robust BCI systems.
 
+For more detailed methodology, analysis, and discussion, please see the full [Project Report](https://github.com/HamiHekmati/motor-imagery-eeg-classification/blob/main/Project%20Report.pdf).
+
 ### Contact
 
 For questions, suggestions, or collaboration opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/hami-hekmati-399932154/) or by opening an issue in this repository. This project was developed by Hami Hekmati as part of a data science and neuroengineering portfolio to demonstrate skills in EEG signal processing, deep learning, and brain–computer interfaces.

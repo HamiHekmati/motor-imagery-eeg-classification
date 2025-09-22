@@ -34,7 +34,7 @@ The workflow begins with EEG preprocessing and epoching. Signals are band-pass f
 
 Two classification strategies are implemented. The first uses EEGNet, a compact convolutional neural network designed for EEG, which captures temporal, spatial, and separable features of the signals. The second uses a hybrid approach where CSP features are extracted per subject and concatenated with the raw EEG input before passing into EEGNet, improving discriminative power and interpretability.  
 
-Training is performed in two modes: pooled training across all subjects with cross-validation, and subject-specific training with an 80/20 split. Performance is evaluated with accuracy, precision, recall, F1-score, and confusion matrices, alongside visualization of training loss and accuracy curves.
+Training is performed in two modes: pooled training across all subjects with cross-validation, and subject-specific training with an 80/20 split. Performance is evaluated with accuracy, precision, recall, F1-score, and confusion matrices.
 
 ### Key Features & Techniques
 

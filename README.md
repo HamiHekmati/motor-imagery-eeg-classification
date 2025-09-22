@@ -18,7 +18,7 @@ To run this project on your own machine, begin by cloning or downloading the rep
 
 <pre> ``` pip install -r requirements.txt ``` </pre>  
 
-Once your environment is set up, open the Jupyter notebook file [Motor_Imagery_EEG_Classification.ipynb](https://github.com/HamiHekmati/motor-imagery-eeg-classification/blob/main/Motor_Imagery_EEG_Classification.ipynb) in Jupyter Notebook, JupyterLab, or upload it to Google Colab for a cloud-based workflow. Adjust dataset paths to match the location of your BCI Competition IV-2a dataset files. Run all notebook cells in sequence to reproduce preprocessing, model training, and evaluation. This setup enables you to fully reproduce the analysis, interpret the results, and experiment with your own modifications.
+Once your environment is set up, open the Jupyter notebook files [Exploratory Analysis.ipynb](https://github.com/HamiHekmati/motor-imagery-eeg-classification/blob/main/Exploratory%20Analysis.ipynb), [Subject-specific training.ipynb](https://github.com/HamiHekmati/motor-imagery-eeg-classification/blob/main/Subject-specific%20training.ipynb) and [Subject-specific training_CSP.ipynb](https://github.com/HamiHekmati/motor-imagery-eeg-classification/blob/main/Subject-specific%20training_CSP.ipynb) in Jupyter Notebook, JupyterLab, or upload them to Google Colab for a cloud-based workflow. Adjust dataset paths to match the location of your BCI Competition IV-2a dataset files. Run all notebook cells in sequence to reproduce preprocessing, model training, and evaluation. This setup enables you to fully reproduce the analysis, interpret the results, and experiment with your own modifications.
 
 ### Dataset
 

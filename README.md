@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*Zd6-LUzmkhuaBWAXVjZ1CQ.png" alt="EEG Signals">
+  <img src="https://madrasscan.in/wp-content/uploads/2023/04/eeg-electroencephalogram-centres.jpeg" alt="EEG Signals">
 </p>
 
 ### Motor Imagery EEG Classification with CSP and EEGNet (BCI-IV 2a)
